@@ -1,0 +1,6 @@
+ The code is written in Python version 3 using Jupyter lab. 
+ Primerly the nltk library is used as well as the matplotlib, which needs to be installed to the enviroment that the code is running. 
+ The relegions directory containes 2 files that are downloaded from the project Gutenberg corpus and are needed fro the functionallity of the code. 
+ The programm follows ther rules and the taskst that are asked in then pdf given for the final project which is the application of python in Corpus linguistics.
+The html file contains the outcome as run_analysis because it wasnt functioning for me and iwanted to display my solutions.
+The other txt files are the output of the unique words that are performed in the 7th exersise.
